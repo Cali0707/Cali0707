@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Calum Murray and I am a member of the Engineering Science class of 2024 at the University of Toronto.
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Cali0707&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[You can check out my personal website here](https://www.calummurray.ca)
+
 <!--
 **Cali0707/Cali0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
