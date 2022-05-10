@@ -2,7 +2,7 @@
 
 My name is Calum Murray and I am a member of the Engineering Science class of 2024 at the University of Toronto.
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Cali0707&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
 
 [You can check out my personal website here](https://www.calummurray.ca)
 
