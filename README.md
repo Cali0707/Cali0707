@@ -4,7 +4,8 @@ FullStack Engineer and Engineering Science Student at the University of Toronto
 -------------------------------------------------------------------------------
 I've been learning to code for a little over two years now. I started with python, before moving into cross-platform mobile development with dart and flutter. I then moved to learning C, as well as C++ on Arduino. I then learned fullstack web development with Javascript. I'm passionate about software, hardware, and how they can be used to create cool things and help people.
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [www.calummurray.ca](http://www.calummurray.ca)* ✉️  You can contact me at [calumramurray@gmail.com](mailto:calumramurray@gmail.com)
+* 🖥️  See my portfolio at [www.calummurray.ca](http://www.calummurray.ca)
+* ✉️  You can contact me at [calumramurray@gmail.com](mailto:calumramurray@gmail.com)
 * 🚀  I'm currently working on [LiteFarm](http://app.litefarm.org)
 * 🧠  I'm learning Maching Learning
 * 🤝  I'm open to collaborating on interesting projects
