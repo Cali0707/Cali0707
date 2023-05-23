@@ -1,6 +1,6 @@
 Hi 👋 My name is Calum
 ======================
-Incoming Cloud Engineer at Red Hat and Engineering Science Student at the University of Toronto
+Software Engineering Intern at Red Hat and Engineering Science Student at the University of Toronto
 ======================
 I've been learning to code for a little over two years now. I started with python, before moving into cross-platform mobile development with dart and flutter. I then moved to learning C, as well as C++ on Arduino. I then learned fullstack web development with Javascript. I'm passionate about software, hardware, and how they can be used to create cool things and help people.
 * 🌍  I'm based in Toronto, Canada
