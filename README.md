@@ -2,11 +2,13 @@ Hi 👋 My name is Calum
 ======================
 Software Engineering Intern at Red Hat and Engineering Science Student at the University of Toronto
 ======================
-I've been learning to code for a little over two years now. I started with python, before moving into cross-platform mobile development with dart and flutter. I then moved to learning C, as well as C++ on Arduino. I then learned fullstack web development with Javascript. I'm passionate about software, hardware, and how they can be used to create cool things and help people.
+Welcome to my profile! I'm passionate about Open Source development, and I am interested in ways to make it easier for new contributors to join. 
+I got my start in programming by building an Open Source package for the flutter ecosystem (you can check it out [here!](https://pub.dev/packages/date_range_form_field)).
+From there, my open source journey continued by working on [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm/), the world's first community-led non-profit digital platform
+to enable sustainable farming. I'm now continuing my journey at Red Hat, where I work on [Knative](https://github.com/knative) and OpenShift Serverless!
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  You can see my portfolio at [www.calummurray.ca](http://www.calummurray.ca)
-* 🧠  I'm learning about computer hardware, software, and machine learning.
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm studying the intersection of control theory, algorithms, computer hardware, and machine learning at the University of Toronto.
+* 🤝  If you want to get started in Open Source or Knative, or you have an interesting Open Source opportunity please reach out!
 * ✉️  You can contact me at [calumramurray@gmail.com](mailto:calumramurray@gmail.com)
 
 
