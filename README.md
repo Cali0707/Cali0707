@@ -1,15 +1,13 @@
-Hi 👋 My name is Calum
+Hi 👋 I'm Calum
 ======================
-Software Engineering Intern at Red Hat and Engineering Science Student at the University of Toronto
-======================
-Welcome to my profile! I'm passionate about Open Source development, and I am interested in ways to make it easier for new contributors to join. 
-I got my start in programming by building an Open Source package for the flutter ecosystem (you can check it out [here!](https://pub.dev/packages/date_range_form_field)).
-From there, my open source journey continued by working on [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm/), the world's first community-led non-profit digital platform
-to enable sustainable farming. I'm now continuing my journey at Red Hat, where I work on [Knative](https://github.com/knative) and OpenShift Serverless!
-* 🌍  I'm based in Toronto, Canada
-* 🧠  I'm studying the intersection of control theory, algorithms, computer hardware, and machine learning at the University of Toronto.
-* 🤝  If you want to get started in Open Source or Knative, or you have an interesting Open Source opportunity please reach out!
-* ✉️  You can contact me at [calumramurray@gmail.com](mailto:calumramurray@gmail.com)
+
+I'm a software engineer, and I love building cool things in open source. I like to seek out the most interesting and challenging problems which I think will have a large impact, and build creative solutions to them. I also like to share my passion for open source with others, and I work to enable and encourage new contributors. Recently I led the push to restart the UX working group in Knative so that we could figure out how designers can more actively particpate in open source.
+
+I'm currently a Knative Eventing maintainer and lead the UX Working Group. I am also a LFX mentor, where I am mentoring two projects related to Knative.
+
+I share my thoughts and ideas about software and open source [on my blog](https://www.calummurray.dev/blog).
+
+If you want to collaborate on a project, are looking for help on your open source journey, or want to chat about tech feel free to reach out!
 
 
 <a href="https://www.github.com/Cali0707" target="_blank" rel="noreferrer"><img
