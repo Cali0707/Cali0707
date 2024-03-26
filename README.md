@@ -1,7 +1,7 @@
 Hi 👋 I'm Calum
 ======================
 
-I'm a software engineer, and I love building cool things in open source. I like to seek out the most interesting and challenging problems which I think will have a large impact, and build creative solutions to them. I also like to share my passion for open source with others, and I work to enable and encourage new contributors. Recently I led the push to restart the UX working group in Knative so that we could figure out how designers can more actively particpate in open source.
+I'm a software engineer, and I love building cool things in open source. I like to seek out the most interesting and challenging problems which I think will have a large impact, and build creative solutions to them. I also like to share my passion for open source with others, and I work to enable and encourage new contributors. Recently I led the push to restart the UX working group in Knative so that we could figure out how designers can more actively participate in open source.
 
 I'm currently a Knative Eventing maintainer and lead the UX Working Group. I am also a LFX mentor, where I am mentoring two projects related to Knative.
 
